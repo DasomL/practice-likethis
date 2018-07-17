@@ -1,0 +1,27 @@
+.right-contents {
+  width: 72%;
+  float: right;
+  padding: 32px 32px 0px 32px;
+  position: relative;
+  top: 194px;
+}
+
+.contents-title {
+  font-family: NotoSansCJKkr-Bold;
+  font-size: 35px;
+  letter-spacing: 3.5px;
+  color: #000000;
+  margin-bottom: 17px;
+}
+
+.contents-content img {
+  padding: 10px 0px 10px 0px;
+}
+
+.contents-content {
+  font-family: NotoSansCJKkr-Regular;
+  font-size: 18px;
+  line-height: 2.06;
+  letter-spacing: 1px;
+  color: #000000;
+}
